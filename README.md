@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @prashanth-n
-- 👀 I’m interested in working with intersting technologies,
 - 🌱 I’m currently learning vuejs - 💞️ I’m looking to collaborate on js open source projects
 - 📫 How to reach me ...
 
